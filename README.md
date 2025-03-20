@@ -24,7 +24,7 @@ Mario Jump é um jogo simples onde o jogador controla um personagem que precisa 
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/SEU_USUARIO/mario-jump.git
+    git clone https://github.com/sebastiao25759/mario-jump.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
